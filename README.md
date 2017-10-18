@@ -1,2 +1,2 @@
 ## mobile-date-picker
-###a vue component to choose on mobile
+### a vue component to choose on mobile
